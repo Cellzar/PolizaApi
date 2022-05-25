@@ -1,0 +1,15 @@
+E:\Codigos\PolizaApi\PolizaDB\bin\Debug\net5.0\PolizaDB.deps.json
+E:\Codigos\PolizaApi\PolizaDB\bin\Debug\net5.0\PolizaDB.runtimeconfig.json
+E:\Codigos\PolizaApi\PolizaDB\bin\Debug\net5.0\PolizaDB.runtimeconfig.dev.json
+E:\Codigos\PolizaApi\PolizaDB\bin\Debug\net5.0\PolizaDB.dll
+E:\Codigos\PolizaApi\PolizaDB\bin\Debug\net5.0\PolizaDB.pdb
+E:\Codigos\PolizaApi\PolizaDB\obj\Debug\net5.0\PolizaDB.csproj.AssemblyReference.cache
+E:\Codigos\PolizaApi\PolizaDB\obj\Debug\net5.0\PolizaDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos\PolizaApi\PolizaDB\obj\Debug\net5.0\PolizaDB.AssemblyInfoInputs.cache
+E:\Codigos\PolizaApi\PolizaDB\obj\Debug\net5.0\PolizaDB.AssemblyInfo.cs
+E:\Codigos\PolizaApi\PolizaDB\obj\Debug\net5.0\PolizaDB.csproj.CoreCompileInputs.cache
+E:\Codigos\PolizaApi\PolizaDB\obj\Debug\net5.0\PolizaDB.dll
+E:\Codigos\PolizaApi\PolizaDB\obj\Debug\net5.0\refint\PolizaDB.dll
+E:\Codigos\PolizaApi\PolizaDB\obj\Debug\net5.0\PolizaDB.pdb
+E:\Codigos\PolizaApi\PolizaDB\obj\Debug\net5.0\PolizaDB.genruntimeconfig.cache
+E:\Codigos\PolizaApi\PolizaDB\obj\Debug\net5.0\ref\PolizaDB.dll

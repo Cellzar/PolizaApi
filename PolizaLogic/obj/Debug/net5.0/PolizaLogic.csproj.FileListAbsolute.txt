@@ -1,0 +1,15 @@
+E:\Codigos\PolizaApi\PolizaLogic\bin\Debug\net5.0\PolizaLogic.deps.json
+E:\Codigos\PolizaApi\PolizaLogic\bin\Debug\net5.0\PolizaLogic.dll
+E:\Codigos\PolizaApi\PolizaLogic\bin\Debug\net5.0\PolizaLogic.pdb
+E:\Codigos\PolizaApi\PolizaLogic\bin\Debug\net5.0\PolizaDB.dll
+E:\Codigos\PolizaApi\PolizaLogic\bin\Debug\net5.0\PolizaDB.pdb
+E:\Codigos\PolizaApi\PolizaLogic\obj\Debug\net5.0\PolizaLogic.csproj.AssemblyReference.cache
+E:\Codigos\PolizaApi\PolizaLogic\obj\Debug\net5.0\PolizaLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos\PolizaApi\PolizaLogic\obj\Debug\net5.0\PolizaLogic.AssemblyInfoInputs.cache
+E:\Codigos\PolizaApi\PolizaLogic\obj\Debug\net5.0\PolizaLogic.AssemblyInfo.cs
+E:\Codigos\PolizaApi\PolizaLogic\obj\Debug\net5.0\PolizaLogic.csproj.CoreCompileInputs.cache
+E:\Codigos\PolizaApi\PolizaLogic\obj\Debug\net5.0\PolizaLogic.csproj.CopyComplete
+E:\Codigos\PolizaApi\PolizaLogic\obj\Debug\net5.0\PolizaLogic.dll
+E:\Codigos\PolizaApi\PolizaLogic\obj\Debug\net5.0\refint\PolizaLogic.dll
+E:\Codigos\PolizaApi\PolizaLogic\obj\Debug\net5.0\PolizaLogic.pdb
+E:\Codigos\PolizaApi\PolizaLogic\obj\Debug\net5.0\ref\PolizaLogic.dll
